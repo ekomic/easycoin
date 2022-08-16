@@ -1,0 +1,2 @@
+# easycoin
+coins platform
